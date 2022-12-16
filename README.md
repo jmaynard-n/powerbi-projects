@@ -6,6 +6,8 @@
 ### Description
 A general dashboard for Sales performance in stores across California
 
+**Data Source**: [EnterpriseDNA.co](https://www.enterprisedna.co/power-bi-resources/)
+
 ### Skills
 - Developed Power BI model
 - Query, transform and load data
